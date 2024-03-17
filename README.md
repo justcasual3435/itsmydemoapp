@@ -1,2 +1,1 @@
-# itsmydemoapp
-FOR EDUCATIONAL PURPOSE
+# selsy
